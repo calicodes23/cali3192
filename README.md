@@ -1,4 +1,7 @@
-## Hi there, I'm Cali 👩🏽‍💻👋
+## Hi there, I'm Cali 👋
+
+<b>👩🏽‍💻 Full Stack Engineer • New York City 🗽</b>
+
 
 - 😄 Pronouns: she/her
 - 💬 Ask me about: teaching! i love teaching/learning about code.
@@ -25,5 +28,4 @@ Here are some ideas to get you started:
 
 -->
 
-Full Stack Engineer • New York City
 
