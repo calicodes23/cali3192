@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## FrontEnd
+
+## BackEnd
+
+## DevOps
+
 -->
+
+Full Stack Engineer || New York City
+
