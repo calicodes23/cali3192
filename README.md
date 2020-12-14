@@ -1,4 +1,4 @@
-### Hi there, I'm Cali 👩🏽‍💻👋
+## Hi there, I'm Cali 👩🏽‍💻👋
 
 <!--
 **cali3192/cali3192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Full Stack Engineer || New York City
-
