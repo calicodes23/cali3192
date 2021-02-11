@@ -40,6 +40,8 @@
 Thank you and please reach out if you have any inquiries.
 - 📫 ctabilas23@gmail.com
 
+- stackoverflow[https://stackoverflow.com/users/11556625/calitab]
+
 
 <!--
 **cali3192/cali3192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
