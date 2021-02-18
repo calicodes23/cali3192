@@ -13,6 +13,8 @@
 - ☕ TypeScript enthusiast and I look for opportunities to teach developers how to integrate it into their projects
   
 - 👑 I try to help other young women create their own spaces in tech.
+
+- 🌈 Queer Coders NYC
   
 - ⚡ Fun facts: I've lived in 5 major regions of the US, I practice yoga daily, I love creating art in all mediums.
  
