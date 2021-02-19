@@ -45,7 +45,7 @@ Thank you and please reach out if you have any inquiries.
 
 🙋🏾‍♀️ [stackoverflow](https://stackoverflow.com/users/11556625/calitab)
 
-🐦 @TypeScriptCali
+🐦 [@TypeScriptCali](https://twitter.com/TypeScriptCali)
 
 
 <!--
