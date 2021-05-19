@@ -22,14 +22,14 @@
 ----
 
 
-### 🪝 FrontEnd
+### 🦑 FrontEnd
 - TypeScript, JavaScript (ES6+), React, Redux, React Router, Hooks, Context, HTML5, Ionic, Capacitor, Styled Components
 
 ### 🐘 BackEnd
 - Node.js, Rails, Express, TypeORM, Redis, PostgreSQL, SQL, Firebase, MongoDB, RESTful APIs, GraphQL, Websockets
 
 ### 🐳 Deployment/tooling
-- AWS, Docker, Heroku, Github Actions git, npm, deno, Webpack, Parcel, Agile, Kanban, Figma, Trello, ESLint, Travis CI, Buddy, Snowpack
+- AWS, Docker, Heroku, Github Actions, git, npm, Webpack, Parcel, Agile, Kanban, Figma, Trello, ESLint, Travis CI, Buddy, Snowpack
 
 ### 🔭 Documentation/testing
 - Jest, Mocha/Chai, Swagger, Storybook, Puppeteer, Frisby
