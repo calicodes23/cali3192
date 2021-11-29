@@ -6,7 +6,7 @@
 
 - 😄 Pronouns: she/her/hers
 
-- 💬  Ask me about: pairing! i love pairing and the chances it creates to teach/learn.
+- 💬  Ask me about: pairing! i love pairing 🍐  and the chances it creates to teach/learn.
 
 - 🦊  Peers and mentors will tell you that I'm scrappy, constantly curious, and will learn quickly.
 
@@ -15,6 +15,8 @@
 - 👑  I try to help other young women create their own spaces in tech.
 
 - 🌈  Queer Coders NYC
+
+🤔 I’m looking for help with being a better engineer and designing resilient systems
   
 - ⚡ Fun facts: I've lived in 5 major regions of the US and I love creating art in all mediums.
  
@@ -23,7 +25,7 @@
 
 
 ### 🦑 FrontEnd
-- TypeScript, JavaScript (ES6+), React, Redux, React Router, Hooks, Context, HTML5, Ionic, Capacitor, Styled Components
+- TypeScript, JavaScript (ES6+), React, Redux, Context, HTML5, Ionic, Capacitor, Styled Components, all the beautiful component libraries
 
 ### 🐘 BackEnd
 - Node.js, Rails, Express, NestJS, TypeORM, Redis, PostgreSQL, SQL, Firebase, MongoDB, RESTful APIs, GraphQL, Websockets
@@ -32,7 +34,7 @@
 - AWS, Docker, Heroku, Github Actions, git, npm, Webpack, Parcel, Agile, Kanban, Figma, Trello, ESLint, Travis CI, Buddy, Snowpack
 
 ### 🔭 Documentation/testing
-- Jest, React Testing Library, Cypress, Mocha/Chai, Swagger, Storybook, Puppeteer, Frisby
+- Jest, React Testing Library, Swagger, Storybook, Relish, Cypress, Mocha/Chai, Puppeteer, Frisby
 
 ---
 
